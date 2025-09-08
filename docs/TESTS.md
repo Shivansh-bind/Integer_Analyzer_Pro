@@ -2,10 +2,10 @@
 
 ### 📌 `docs/TESTS.md`
 
-```markdown
+
 # 🧪 Tests for Integer Analyzer Pro
 
-[![Tests](https://img.shields.io/badge/Tests-Ready-success?style=for-the-badge)](https://github.com/pwf-playz/Integer_Analyzer_Pro)
+[![Tests](https://img.shields.io/badge/Tests-Ready-success?style=for-the-badge)](https://github.com/shivansh-bind/Integer_Analyzer_Pro)
 ![Manual Testing](https://img.shields.io/badge/Type-Manual-orange?style=for-the-badge)
 
 ---
@@ -74,5 +74,3 @@ graph LR
     T2[Test 2: Both Negative] --> PASS
     T3[Test 3: Both Zero] --> PASS
     T4[Test 4: Both Positive] --> PASS
-
-✅ All test cases should pass if program is working correctly.

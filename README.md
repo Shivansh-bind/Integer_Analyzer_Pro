@@ -3,10 +3,10 @@
 <div align="center">
 
 ```ascii
-                      ╔══════════════════════════════════════════════════════════╗
-                      ║                 INTEGER ANALYZER PRO                     ║
-                      ║            Where Numbers Reveal Their Secrets            ║
-                      ╚══════════════════════════════════════════════════════════╝
+                              ╔══════════════════════════════════════════════════════════╗
+                              ║                 INTEGER ANALYZER PRO                     ║
+                              ║            Where Numbers Reveal Their Secrets            ║
+                              ╚══════════════════════════════════════════════════════════╝
 ```
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge) ![Platform](https://img.shields.io/badge/platform-Cross_Platform-orange?style=for-the-badge) ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge) ![Status](https://img.shields.io/badge/status-Production_Ready-success?style=for-the-badge)

@@ -1,7 +1,7 @@
 /*
  * Integer Analyzer Pro
  * A robust integer analysis tool with input validation
- * Author: [Shiwansh bind @pwf-playz]
+ * Author: [Shiwansh bind @shivansh-bind]
  * Version: 1.0.0
  * License: MIT
  */
@@ -90,4 +90,5 @@ int main() {
     printf("═══════════════════════════════════════\n");
     
     return 0;
+
 }

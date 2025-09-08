@@ -71,5 +71,3 @@ graph LR
     T2[Test 2: Both Negative] --> PASS
     T3[Test 3: Both Zero] --> PASS
     T4[Test 4: Both Positive] --> PASS
-
-✅ All test cases should pass if program is working correctly.
